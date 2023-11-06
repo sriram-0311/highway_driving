@@ -1,0 +1,6 @@
+tensorboard
+stable-baselines3
+gymnasium
+highway-env
+numpy
+matplotlib
