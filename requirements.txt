@@ -1,6 +1,6 @@
 tensorboard
 stable-baselines3
-gymnasium
+gym
 highway-env
 numpy
 matplotlib
